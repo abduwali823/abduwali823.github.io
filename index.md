@@ -1,4 +1,4 @@
-### welcome to my own homepage
+### welcome to the homepage
 ### 个人信息
 姓名：阿卜杜外力      
 学校：南京理工大学     
